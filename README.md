@@ -339,4 +339,4 @@ Se `wwwroot` não existir (ou `_env.WebRootPath` vier vazio), cria a pasta `wwwr
 
 ## 📄 Licença
 
-MIT `LICENSE.txt`.
+MIT [MIT license](LICENÇA)..
