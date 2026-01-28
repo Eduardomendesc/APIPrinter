@@ -8,6 +8,12 @@ O endpoint recebe o comando já gerado pelo teu sistema (em **Base64**), convert
 
 ---
 
+## Autor
+
+- [Eduardo Mendes Cambandza](https://github.com/Eduardomendesc)
+
+---
+
 ## 📌 Características
 
 - Impressão **via rede** (TCP) usando `ImmediateNetworkPrinter` (biblioteca `ESCPOS_NET`)
